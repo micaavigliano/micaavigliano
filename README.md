@@ -1,16 +1,27 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/gakN0of9tttb9Q8nnA/giphy-downsized-large.gif" with="200" height="200" align="center" />
+  <h1 align="center">Hi, I'm Mica</h1>
+  <h3>I'm a frontend developer with 3 years of experience working on modern technologies such as React and a special attention towards accessibility and developing       impactful products that reach large target audience.</h3>
+</div>
 
-<!--
-**micaavigliano/micaavigliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me:
+- ♿ Accessibility advocate
+- ⚛️ I've been working with React for 3+ years
+- 👩‍🎓 I love learning new things
+- 🍜 I love eating korean and japanese food
+- 📧 How to reach me: **micaela.avigliano@gmail.com**
+- You can now more about me and my work experience on my linkedin profile: **https://www.linkedin.com/in/micaelaavigliano/**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <h3>🔨 Languages and tools</h3>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react library icon" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40">&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40">&nbsp;
+  </div>
+</div>
