@@ -8,7 +8,7 @@
 
 ### 👩‍💻 About Me:
 - ♿ Accessibility advocate
-- ⚛️ I've been working with React for 3+ years
+- ⚛️ I've been working with React for 4+ years
 - 👩‍🎓 I love learning new things
 - 🍜 I love eating korean and japanese food
 - 📧 How to reach me: **micaela.avigliano@gmail.com**
