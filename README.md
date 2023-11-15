@@ -12,7 +12,7 @@
 - 👩‍🎓 I love learning new things
 - 🍜 I love eating korean and japanese food
 - 📧 How to reach me: **micaela.avigliano@gmail.com**
-- You can now more about me and my work experience on my linkedin profile: **https://www.linkedin.com/in/micaelaavigliano/**
+- You can know more about me and my work experience on my linkedin profile: **https://www.linkedin.com/in/micaelaavigliano/**
 
 <div align="left">
   <h3>🔨 Languages and tools</h3>
