@@ -24,5 +24,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40">&nbsp;
   </div>
-  ![](https://komarev.com/ghpvc/?username=micaavigliano&style=flat-square&color=ff69b4)
 </div>
+
+![](https://komarev.com/ghpvc/?username=micaavigliano&color=ff69b4)
