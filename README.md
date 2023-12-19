@@ -26,7 +26,7 @@
   </div>
 </div>
 
-<div>
+
 ![](https://komarev.com/ghpvc/?username=micaavigliano&color=ff69b4)
-</div>
+
 
