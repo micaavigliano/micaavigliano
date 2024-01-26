@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/gakN0of9tttb9Q8nnA/giphy-downsized-large.gif" with="200" height="200" align="center" />
   <h1 align="center">Hi, I'm Mica</h1>
-  <h3>I'm a frontend developer with 4 years of experience working on modern technologies such as React and a special attention towards accessibility and developing       impactful products that reach large target audience.</h3>
+  <h3>I'm a frontend developer with 5 years of experience working on modern technologies such as React and a special attention towards accessibility and developing       impactful products that reach large target audience.</h3>
 </div>
 
 ---
