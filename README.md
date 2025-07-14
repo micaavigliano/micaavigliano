@@ -1,30 +1,48 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/gakN0of9tttb9Q8nnA/giphy-downsized-large.gif" with="200" height="200" align="center" />
-  <h1 align="center">Hi, I'm Mica</h1>
-  <h3>I'm a frontend developer with 5 years of experience working on modern technologies such as Next and React, and a special attention towards accessibility and developing       impactful products that reach large target audience.</h3>
-</div>
+<h1 align="center">Hi, I'm Micaela Avigliano 👋</h1>
+<h3 align="center">Frontend Developer & Accessibility Advocate</h3>
 
 ---
 
-### 👩‍💻 About Me:
-- ♿ Accessibility advocate
-- ⚛️ I've been working with React for 5+ years
-- 👩‍🎓 I love learning new things
-- 🍜 I love eating korean and japanese food
-- 📧 How to reach me: **micaela.avigliano@gmail.com**
-- You can know more about me and my work experience on my linkedin profile: **https://www.linkedin.com/in/micaelaavigliano/**
+🎯 I'm a frontend developer with 6+ years of experience building scalable, accessible, and high-performance web applications using **React**, **Next.js**, **TypeScript**, and **GraphQL**.
 
-<div align="left">
-  <h3>🔨 Languages and tools</h3>
-  <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react library icon" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="react library icon" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40">&nbsp;
-  </div>
-</div>
+💡 I specialize in accessibility (WCAG 2.1 AA), performance optimization, and component-driven architecture. I’m passionate about creating inclusive user experiences and clean, maintainable code.
+
+🌍 Currently working as a **freelancer** with global brands, collaborating with multicultural, remote-first teams.
+
+---
+
+### 🛠 Tech Stack
+
+- **Frontend**: React, Next.js, Vue.js, Tailwind CSS, Styled Components
+- **Accessibility**: WCAG 2.1 AA, ARIA, axe, Lighthouse, screen readers
+- **Testing**: Cypress, React Testing Library, Jest
+- **CMS**: Contentful, WordPress, Drupal
+- **Workflow**: GitHub, Jira, Confluence, Agile / SCRUM
+
+---
+
+### 🚀 Featured Projects
+
+🔹 [Supra – Company website (Next.js + Tailwind)](https://github.com/micaavigliano)  
+🔹 [Nespresso – Accessible components for 28+ markets](https://www.nespresso.com/es/es)]
+🔹 [Smart TV App – Custom navigation and performance fixes](https://www.flow.com.ar/)  
+🔹 [BiomeMakers – Internal dashboard & PDF generation](https://biomemakers.com/)
+
+> *Some projects are under NDA — I'm happy to demo them privately if needed.*
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 [micaavigliano.com](https://micaavigliano.com)
+- 📧 micaela.avigliano@gmail.com
+- 💼 [LinkedIn](https://linkedin.com/in/micaavigliano)
+- 💻 [GitHub](https://github.com/micaavigliano)
+
+---
+
+⭐ **Open to freelance collaborations, remote frontend roles, and accessibility-first projects. Let’s build something inclusive together!**
+
 
 
 ![](https://komarev.com/ghpvc/?username=micaavigliano&color=ff69b4)
