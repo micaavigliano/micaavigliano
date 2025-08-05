@@ -23,9 +23,9 @@
 
 ### 🚀 Featured Projects
 
-🔹 [Supra – Company website (Next.js + Tailwind)](https://github.com/micaavigliano)  
+🔹 [Indeed – Company website (Next.js + Tailwind)](https://indeed.com)
 🔹 [Nespresso – Accessible components for 28+ markets](https://www.nespresso.com/es/es)
-🔹 [Smart TV App – Custom navigation and performance fixes](https://www.flow.com.ar/)  
+🔹 [Smart TV App – Custom navigation and performance fixes](https://www.flow.com.ar/)
 🔹 [BiomeMakers – Internal dashboard & PDF generation](https://biomemakers.com/)
 
 > *Some projects are under NDA — I'm happy to demo them privately if needed.*
@@ -37,7 +37,6 @@
 - 🌐 [micaavigliano.com](https://micaavigliano.com)
 - 📧 micaela.avigliano@gmail.com
 - 💼 [LinkedIn](https://linkedin.com/in/micaavigliano)
-- 💻 [GitHub](https://github.com/micaavigliano)
 
 ---
 
