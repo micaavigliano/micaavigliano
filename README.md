@@ -23,7 +23,7 @@
 
 ### 🚀 Featured Projects
 
-🔹 [Indeed – Company website (Next.js + Tailwind)](https://indeed.com)   
+🔹 [Indeed – Company website](https://indeed.com)   
 🔹 [Nespresso – Accessible components for 28+ markets](https://www.nespresso.com/es/es)   
 🔹 [Smart TV App – Custom navigation and performance fixes](https://www.flow.com.ar/)   
 🔹 [BiomeMakers – Internal dashboard & PDF generation](https://biomemakers.com/)   
