@@ -21,17 +21,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-🔹 [Indeed – Company website](https://indeed.com)   
-🔹 [Nespresso – Accessible components for 28+ markets](https://www.nespresso.com/es/es)   
-🔹 [Smart TV App – Custom navigation and performance fixes](https://www.flow.com.ar/)   
-🔹 [BiomeMakers – Internal dashboard & PDF generation](https://biomemakers.com/)   
-
-> *Some projects are under NDA — I'm happy to demo them privately if needed.*
-
----
-
 ### 📫 Let's Connect
 
 - 🌐 [micaavigliano.com](https://micaavigliano.com)
