@@ -1,11 +1,11 @@
 # Frontend Developer | React, Vue.js, Next.js | Accessibility & UI Components
 
-**Experienced Frontend Developer, UI Engineer, and JavaScript Specialist**  
+**Experienced Frontend Developer, UI Engineer, and Accessibility Engineer**  
 6+ years building modern, accessible, and scalable web applications and reusable component libraries.
 
 ---
 
-## 👋 About Me
+## About Me
 
 I’m a results-driven frontend developer with deep expertise in **React**, **Vue.js**, and **Next.js**.  
 My passion is designing and coding accessible, scalable, and reusable UI components for web applications.  
@@ -13,16 +13,16 @@ I have extensive hands-on experience with **screen readers** (JAWS, NVDA, VoiceO
 
 ---
 
-## 🏆 Professional Summary
+## Professional Summary
 
-- **Job Titles:** Frontend Developer, UI Engineer, React Developer, Vue.js Developer, Next.js Developer, Web Developer, JavaScript Engineer
+- **Job Titles:** Frontend Developer, Accessibility Engineer, UI Engineer, React Developer, Vue.js Developer, Next.js Developer, Web Developer, JavaScript Engineer
 - **Experience:** 6+ years in frontend development for startups, SaaS products, and enterprise web platforms
 - **Location:** Remote 
 - **Open to:** Remote and onsite opportunities worldwide
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 - **Frameworks:** React, Vue.js, Next.js, Nuxt.js
 - **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS, SCSS
@@ -42,7 +42,7 @@ I have extensive hands-on experience with **screen readers** (JAWS, NVDA, VoiceO
 
 ---
 
-## 🚀 What I'm Working On
+## What I'm Working On
 
 - Building a component library focused on accessibility and theming.
 - Experimenting with server components and SSR in Next.js.
@@ -50,14 +50,14 @@ I have extensive hands-on experience with **screen readers** (JAWS, NVDA, VoiceO
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
 - [micaavigliano/micaavigliano](https://github.com/micaavigliano/micaavigliano): Portfolio, component libraries, and frontend experiments.
 - *More projects coming soon!*
 
 ---
 
-## 📝 Blog & Website
+## Blog & Website
 
 - **Personal Blog:** [micaavigliano.com/blog](https://www.micaavigliano.com/blog)  
   Articles on accessibility, frontend development, UI/UX, and more.
@@ -66,14 +66,14 @@ I have extensive hands-on experience with **screen readers** (JAWS, NVDA, VoiceO
 
 ---
 
-## 📬 Contact
+## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/micaavigliano/)
-- [Email](mailto:your.email@example.com)
+- [Email](mailto:micaela.avigliano@gmail.com)
 
 ---
 
-## 📝 Development Philosophy
+## Development Philosophy
 
 > "Code should empower everyone to use, contribute, and enjoy digital experiences."
 
