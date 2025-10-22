@@ -1,15 +1,13 @@
 # Frontend Developer | React, Vue.js, Next.js | Accessibility & UI Components
 
-**Experienced Frontend Developer, UI Engineer, and Accessibility Engineer**  
-6+ years building modern, accessible, and scalable web applications and reusable component libraries.
+**Experienced Frontend Developer, UI Engineer, and Accessibility Engineer** 6+ years building modern, accessible, and scalable web applications and reusable component libraries.
 
 ---
 
 ## About Me
 
 I’m a results-driven frontend developer with deep expertise in **React**, **Vue.js**, and **Next.js**.  
-My passion is designing and coding accessible, scalable, and reusable UI components for web applications.  
-I have extensive hands-on experience with **screen readers** (JAWS, NVDA, VoiceOver), **keyboard navigation**, and **automated accessibility testing tools** (axe, Lighthouse), ensuring every project is inclusive and meets modern accessibility standards.
+My passion is designing and coding accessible, scalable, and reusable UI components for web applications. I have extensive hands-on experience with **screen readers** (JAWS, NVDA, VoiceOver), **keyboard navigation**, and **automated accessibility testing tools** (axe, Lighthouse), ensuring every project is inclusive and meets modern accessibility standards.
 
 ---
 
