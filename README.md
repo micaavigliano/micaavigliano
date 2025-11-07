@@ -48,13 +48,6 @@ My passion is designing and coding accessible, scalable, and reusable UI compone
 
 ---
 
-## Featured Projects
-
-- [micaavigliano/micaavigliano](https://github.com/micaavigliano/micaavigliano): Portfolio, component libraries, and frontend experiments.
-- *More projects coming soon!*
-
----
-
 ## Blog & Website
 
 - **Personal Blog:** [micaavigliano.com/blog](https://www.micaavigliano.com/en/blog)
