@@ -57,7 +57,7 @@ My passion is designing and coding accessible, scalable, and reusable UI compone
 
 ## Blog & Website
 
-- **Personal Blog:** [micaavigliano.com/blog](https://www.micaavigliano.com/blog)  
+- **Personal Blog:** [micaavigliano.com/blog](https://www.micaavigliano.com/en/blog)  
   Articles on accessibility, frontend development, UI/UX, and more.
 - **Portfolio & Website:** [micaavigliano.com](https://www.micaavigliano.com)  
   My work, projects, and more about me.
