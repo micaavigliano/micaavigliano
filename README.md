@@ -59,7 +59,7 @@ My passion is designing and coding accessible, scalable, and reusable UI compone
 
 ## Contact
 
-- [LinkedIn](https://www.linkedin.com/in/micaavigliano/)
+- [LinkedIn](https://www.linkedin.com/in/micaelaavigliano/)
 - [Email](mailto:micaela.avigliano@gmail.com)
 
 ---
