@@ -4,14 +4,14 @@
 
 ---
 
-## About Me
+## About me
 
 I’m a results-driven frontend developer with deep expertise in **React**, **Vue.js**, and **Next.js**.  
 My passion is designing and coding accessible, scalable, and reusable UI components for web applications. I have extensive hands-on experience with **screen readers** (JAWS, NVDA, VoiceOver), **keyboard navigation**, and **automated accessibility testing tools** (axe, Lighthouse), ensuring every project is inclusive and meets modern accessibility standards.
 
 ---
 
-## Professional Summary
+## Professional summary
 
 - **Job Titles:** Frontend Developer, Accessibility Engineer, UI Engineer, React Developer, Vue.js Developer, Next.js Developer, Web Developer, JavaScript Engineer
 - **Experience:** 6+ years in frontend development for startups, SaaS products, and enterprise web platforms
@@ -20,7 +20,7 @@ My passion is designing and coding accessible, scalable, and reusable UI compone
 
 ---
 
-## Tech Stack & Skills
+## Tech stack & skills
 
 - **Frameworks:** React, Vue.js, Next.js, Nuxt.js
 - **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS, SCSS
@@ -31,16 +31,16 @@ My passion is designing and coding accessible, scalable, and reusable UI compone
 - **Tooling:** Webpack, Vite, ESLint, Prettier, Git
 - **Accessibility:**  
   - Semantic HTML, ARIA, WCAG, WAI-ARIA best practices  
-  - **Screen reader compatibility** (NVDA, JAWS, VoiceOver)  
+  - **Screen reader compatibility** (NVDA, JAWS, VoiceOver, Talkback)  
   - **Keyboard navigation and focus management**  
-  - **Automated accessibility testing:** axe, Lighthouse, Pa11y  
+  - **Automated accessibility testing:** axe, Lighthouse, Pa11y, browserstack, monsido  
   - Manual testing for color contrast, tab order, and assistive technology compatibility
 - **Performance:** Lighthouse, code splitting, SSR, lazy loading
-- **Localization:** i18n, l10n best practices
+- **Localization:** i18n best practices
 
 ---
 
-## What I'm Working On
+## What I'm currently working on
 
 - Building a component library focused on accessibility and theming.
 - Experimenting with server components and SSR in Next.js.
@@ -61,12 +61,6 @@ My passion is designing and coding accessible, scalable, and reusable UI compone
 
 - [LinkedIn](https://www.linkedin.com/in/micaelaavigliano/)
 - [Email](mailto:micaela.avigliano@gmail.com)
-
----
-
-## Development Philosophy
-
-> "Code should empower everyone to use, contribute, and enjoy digital experiences."
 
 ---
 
