@@ -46,7 +46,7 @@ I share my knowledge through my [personal blog](https://www.micaavigliano.com/en
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/micaelaavigliano/)  
-- [Email](mailto:micaela.avigliano@gmail. com)
+- [Email](mailto:micaela.avigliano@gmail.com)
 
 ---
 
