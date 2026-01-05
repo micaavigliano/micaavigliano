@@ -1,72 +1,53 @@
-# Frontend Developer | React, Vue.js, Next.js | Accessibility & UI Components
+# Frontend Developer | Accessibility Advocate
 
-**Experienced Frontend Developer, UI Engineer, and Accessibility Engineer** 6+ years building modern, accessible, and scalable web applications and reusable component libraries.
-
----
-
-## About me
-
-I’m a results-driven frontend developer with deep expertise in **React**, **Vue.js**, and **Next.js**.  
-My passion is designing and coding accessible, scalable, and reusable UI components for web applications. I have extensive hands-on experience with **screen readers** (JAWS, NVDA, VoiceOver), **keyboard navigation**, and **automated accessibility testing tools** (axe, Lighthouse), ensuring every project is inclusive and meets modern accessibility standards.
+**6+ years building accessible, modern web applications** with React, Vue.js, and Next.js.  
 
 ---
 
-## Professional summary
+## About Me
 
-- **Job Titles:** Frontend Developer, Accessibility Engineer, UI Engineer, React Developer, Vue.js Developer, Next.js Developer, Web Developer, JavaScript Engineer
-- **Experience:** 6+ years in frontend development for startups, SaaS products, and enterprise web platforms
-- **Location:** Remote 
-- **Open to:** Remote and onsite opportunities worldwide
+I'm a frontend developer with **6+ years of experience** building scalable web applications and component libraries using **React**, **Vue.js**, and **Next.js**.  I work extensively with **TypeScript**, modern JavaScript (ES6+), and modern tooling like **Vite** and **Webpack** to create maintainable, performant codebases.
 
----
+My approach combines **solid frontend engineering** with a deep commitment to **accessibility**. I ensure every interface I build is **WCAG compliant**, **screen reader compatible**, and follows **inclusive design principles**.  
 
-## Tech stack & skills
-
-- **Frameworks:** React, Vue.js, Next.js, Nuxt.js
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, SASS, SCSS
-- **Component Libraries:** Storybook, Material-UI, Chakra UI, Ant Design
-- **State Management:** Redux, Context API, Vuex, Pinia
-- **Styling:** CSS-in-JS, TailwindCSS, Styled Components
-- **Testing:** Jest, React Testing Library, Cypress, Vitest
-- **Tooling:** Webpack, Vite, ESLint, Prettier, Git
-- **Accessibility:**  
-  - Semantic HTML, ARIA, WCAG, WAI-ARIA best practices  
-  - **Screen reader compatibility** (NVDA, JAWS, VoiceOver, Talkback)  
-  - **Keyboard navigation and focus management**  
-  - **Automated accessibility testing:** axe, Lighthouse, Pa11y, browserstack, monsido  
-  - Manual testing for color contrast, tab order, and assistive technology compatibility
-- **Performance:** Lighthouse, code splitting, SSR, lazy loading
-- **Localization:** i18n best practices
+I share my knowledge through my [personal blog](https://www.micaavigliano.com/en/blog), writing about frontend development, accessibility, and web standards. 
 
 ---
 
-## What I'm currently working on
+## Core Skills
 
-- Building a component library focused on accessibility and theming.
-- Experimenting with server components and SSR in Next.js.
-- Advocating for inclusive design in every project.
+**Frontend Development**
+- React, Vue.js, Next.js, Nuxt.js
+- TypeScript, JavaScript (ES6+)
+- HTML5, CSS3, SASS, TailwindCSS
+- Component libraries (Storybook, Material-UI, Chakra UI)
+- Tooling (Webpack, Vite, ESLint, Prettier, Git)
+
+**Accessibility**
+- WCAG & WAI-ARIA best practices
+- Screen reader testing (NVDA, JAWS, VoiceOver, Talkback)
+- Keyboard navigation & focus management
+- Automated testing (axe, Lighthouse, Pa11y, Monsido)
+- Semantic HTML & color contrast optimization
+
+**Testing & Performance**
+- Jest, React Testing Library, Cypress, Vitest
+- Lighthouse optimization, SSR, code splitting, lazy loading
 
 ---
 
 ## Blog & Website
 
-- **Personal Blog:** [micaavigliano.com/blog](https://www.micaavigliano.com/en/blog)
-  Articles on accessibility, frontend development, UI/UX, and more.
-- **Portfolio & Website:** [micaavigliano.com](https://www.micaavigliano.com)  
-  My work, projects, and more about me.
+📝 **[micaavigliano.com/blog](https://www.micaavigliano.com/en/blog)** – Articles on accessibility, frontend development, and UI/UX  
+🌐 **[micaavigliano.com](https://www.micaavigliano.com)** – Portfolio and projects
 
 ---
 
-## Contact
+## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/micaelaavigliano/)
-- [Email](mailto:micaela.avigliano@gmail.com)
-
----
-
-**Keywords:** Frontend Developer, UI Engineer, React, Vue.js, Next.js, JavaScript Developer, Accessibility, Screen Reader, Keyboard Navigation, Automated Accessibility Testing, axe, Lighthouse, Pa11y, Component Library, Web Developer, Remote, SSR, a11y, WCAG, WAI-ARIA, Scalable UI, Reusable Components, Testing, Performance Optimization, Storybook, Material-UI, Chakra UI, Ant Design, Redux, CSS-in-JS, TailwindCSS, Cypress, Jest, Lighthouse, i18n, Blog, Portfolio
+- [LinkedIn](https://www.linkedin.com/in/micaelaavigliano/)  
+- [Email](mailto:micaela.avigliano@gmail. com)
 
 ---
 
-Thanks for visiting my profile!  
-Check out my [blog](https://www.micaavigliano.com/blog), [website](https://www.micaavigliano.com), explore my work, or reach out for collaboration.
+*Building the web for everyone*
