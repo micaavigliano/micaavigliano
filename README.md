@@ -6,7 +6,7 @@
 - [multilingual-blog-starter](https://github.com/micaavigliano/multilingual-blog-starter): accessible blog skeleton that supports multiple languages.
 (...) 
 
-## Blog & Website
+## Blog and Website
 
 📝 **[micaavigliano.com/blog](https://www.micaavigliano.com/en/blog)** – Articles on accessibility, frontend development, and UI/UX  
 🌐 **[micaavigliano.com](https://www.micaavigliano.com)** – Portfolio and projects
