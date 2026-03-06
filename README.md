@@ -5,7 +5,6 @@
 - [automatic-heading-level](https://github.com/micaavigliano/automatic-heading-level): context to hierarchy organize the headings automatically.
 - [multilingual-blog-starter](https://github.com/micaavigliano/multilingual-blog-starter): accessible blog skeleton that supports multiple languages.
 - [ats-checker-cv-builder](https://ats-checker-cv-builder.netlify.app/): check if your cv is a match with the position and create your CV ATS friendly
-</ br>
 (...) 
 
 ## Blog and Website
